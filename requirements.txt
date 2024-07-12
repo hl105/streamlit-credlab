@@ -1,0 +1,15 @@
+pandas
+streamlit
+matplotlib
+wordcloud
+plotly
+tensorflow
+tensorflow_hub
+numpy
+pandas
+matplotlib.pyplot
+sklearn.cluster
+sklearn.manifold
+sklearn.cluster
+plotly.express
+pandas
